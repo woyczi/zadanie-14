@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.p1 {
+
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+    color: green;
+    border: 2px solid yellow;
+
+}
+
+.p2 {     
+
+font-family: Verdana, Arial, sans-serif;
+font-size: 14px;
+color: red;
+border: 3px solid orange;
+
+}
+
+.p3 {
+
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 16px;
+    color: blue;
+    border: 5px solid lightblue;
+
+}
